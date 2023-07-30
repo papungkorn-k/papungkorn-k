@@ -1,22 +1,7 @@
-### Hi there 👋
+Hi there! My name is Papungkorn Kitcharoenkarnkul. I go by "Kob".
 
-## Test 1
+I am a Ph.D. Candidate in the [Economics Department](https://www.econ.utah.edu/) at the [University of Utah](https://www.utah.edu/).
 
-# Test 2
+I am interested in applied microeconomics research, with a specific focus on education, labor, and health economics. I use this space to explore and experiment with my personal projects. If you plan to utilize any of the resources here, please do so with care!
 
-Hi
-
-<!--
-**papungkorn-k/papungkorn-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cheers,
